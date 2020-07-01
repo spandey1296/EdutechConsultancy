@@ -1,0 +1,56 @@
+
+img{
+	width: 1350px;
+	height: 300px;
+	border-color: RED;
+	background-color:#CDD601;
+	
+	
+
+}
+
+ul.b{
+	list-style-type: square;
+	text
+
+}
+
+h1{
+	list-style: bold;
+	color:#D60101;
+	text-align: center;
+
+}
+li{
+	text-decoration: italic;
+	color: #DB0219
+	background-color:#C0DB02;
+}
+
+ ul{
+ 	background-color: #CFD600;
+ }
+
+
+
+ body{
+ 	background-color: #A2D600;
+
+ }
+ .ramiya{
+ 	font-weight: 600;
+ 	color: #d41a3a;
+
+ }
+ .fa{
+ 	display: inline-block;
+ 	font-size: inherit;
+ 	text-rendering: auto;
+
+ }
+
+
+ H3{
+ 	color:#0128D6;
+ 	 
+ }
