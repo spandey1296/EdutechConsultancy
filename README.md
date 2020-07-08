@@ -25,6 +25,6 @@ Author:
 
 SHIVANT KUMAR PANDEY
 
-EMAIL: SHIVANT KUMAR PANDEY
+EMAIL: shivant47@gmail.com
 
 LINKEDIN: https://www.linkedin.com/in/shivant-kumar-pandey-6469a1164/
