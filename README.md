@@ -19,12 +19,17 @@ Edutech is an education consultancy provider for students. It helps students to 
 
 
 
-Website: https://edutechconsultancy.herokuapp.com/
+# Website: https://edutechconsultancy.herokuapp.com/
 
-Author:
-
-SHIVANT KUMAR PANDEY
-
-EMAIL: shivant47@gmail.com
-
-LINKEDIN: https://www.linkedin.com/in/shivant-kumar-pandey-6469a1164/
+# Tech Stack
+<ul>
+  <li>Html</li>
+   <li>Css</li>
+   <li>javascript</li>
+   <li>Bootstrap4</li>
+ <li>Herukoapp</li>
+  </ul>
+  
+  
+# Developer
+<h1> SHIVANT KUMAR PANDEY </H1>
